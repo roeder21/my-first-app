@@ -12,7 +12,7 @@ export default class Featuredmember extends Component {
       })
         return (
             <section className="featured-rooms">
-                <Title title="kami2x rankings & positions"/>
+                <Title title="mga baskug sang kami2x"/>
         <div className="featured-rooms-center">{loading ? <Loading />: members }</div>
 
                 
