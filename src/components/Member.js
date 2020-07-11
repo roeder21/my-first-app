@@ -13,7 +13,7 @@ export default function Member({member}) {
     <h6>${price}</h6>
     <p>Talent Fee</p>
                </div>
-               <Link to={`/members/${slug}`} className="btn-primary room-link">lantawa da</Link>
+               <Link to={`/members/${slug}`} className="btn-primary room-link">check info</Link>
     <p className="room-info">{name}</p>
            </div>
         </article>
