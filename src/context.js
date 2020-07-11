@@ -80,8 +80,7 @@ filterMembers = () => {
          members,
          position,
          price,
-         minPrice,
-         maxPrice
+        
     } = this.state;
 
     let tempMembers = [...members];
