@@ -64,6 +64,7 @@ h6 {
   transition: var(--mainTransition);
   text-transform: uppercase;
   cursor: pointer;
+  text-align: center;
 }
 .btn-primary:hover {
   background: transparent;
